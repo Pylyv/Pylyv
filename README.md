@@ -1,5 +1,5 @@
 <h1 align="center">Hi there!👋, I'm Lili Viana</h1>
-<h3 align="center">A self-taught programmer, Full Stack Web Developer</h3>
+<h3 align="center">A self-taught Full Stack Web Developer</h3>
 <br/>
 
 
