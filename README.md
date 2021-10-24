@@ -2,7 +2,7 @@
 <h3 align="center">A self-taught programmer, Full Stack Web Developer</h3>
 <br/>
 
-p
+
 - 🔭 I’m currently working on software production for [ZeroDayCode](https://zerodaycode.eu/) and on a **Flutter** integration with **Django Rest API**, in order to get a multi-platform one language front-end with a solid
 backend server-side based on REST comms **for a personal project** named **LiveBar** with my partner [**Pyzyryab**](https://github.com/Pyzyryab). You can find it [here](https://livebar.app)
 
