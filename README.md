@@ -3,7 +3,7 @@
 <br/>
 
 
-- 🔭 I’m currently working on software production for [ZeroDayCode](https://zerodaycode.eu/) and on a **Flutter** integration with **Django Rest API**, in order to get a multi-platform one language front-end with a solid
+- 🔭 I’m currently working on software production for [ZeroDayCode](https://github.com/zerodaycode) and on a **Flutter** integration with **Django Rest API**, in order to get a multi-platform one language front-end with a solid
 backend server-side based on REST comms **for a personal project** named **LiveBar** with my partner [**Pyzyryab**](https://github.com/Pyzyryab). You can find it [here](https://livebar.app).
 
 - 🔭 Through Python and the use of the OpenCV library, I've created a plugin for a project named [Rumble-AI](https://github.com/Pyzyryab/Rumble-LoL-Extension) which is an open source virtual assistant that allows you to operate the computer's mouse with your hand when required by the user's voice command.
